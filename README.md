@@ -158,11 +158,11 @@ Kafr El Sheikh, Egypt
 
 🧪 RUN PROJECT LOCALLY
 
-git clone https://github.com/YOUR_USERNAME/ESLAMMEKKY.php
+git clone https://github.com/EslamMeky/YOUR-PROJECT
 
-npm install
+composer install
 
-npm run dev
+php artisan serve
 
 --------------------------------------------------
 
